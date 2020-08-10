@@ -1,0 +1,11 @@
+export const LOGIN = 'Login';
+export const QR_SCAN = 'QR_SCAN';
+export const GOOGLE_MAP = 'Google_Map';
+export const BOTTOM_TAB = 'Bottom_Tab';
+export const HOME = 'Home';
+export const CHAT = 'Chat';
+export const SCHEDULE = 'Schedule';
+export const ERRORREPORT = 'ErrorReport';
+export const EVENT = 'Event';
+export const ATTENDANCE = 'Attendance';
+export const SPLASH = 'Splash'

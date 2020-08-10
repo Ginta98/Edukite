@@ -1,0 +1,468 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/63ab70a5aaf2bf719f2ed0156b18e556/jetified-flipper-0.33.1/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7fdd7ff341c6b1e385b4005eca7b36a5/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/c6e4cbf1ea1996b1099b54708f56c616/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/26134ccdb2d0f0668471e01e1e50dcd9/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-community_async-storage] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-camera] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-geolocation-service] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-maps] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-permissions] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/5014ab3fb4de0d8cd2f9d95e27ccc3d2/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/be0f08ddbc7b2ceb9beb29e6b731c207/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/f5ec57ec49d0a3e9add695de66a9078c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a083b9190df6cd0b2eed1b8d83acb3d5/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/43032aab24cbb6d5a94d999481777494/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/548ac8f624c13ce59f763649ee31db68/jetified-flipper-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/49c8b8ff92a3ca7e808cd23b54773762/jetified-stetho-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/3faa8d82b031a7be666886811b19017d/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/3c7ccaca5815aaf22dc794aa2404e3a9/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/03900285f8dc96706b7719550784439b/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a7302c738102185809c4cf34de312841/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/c41cde47205e3865681326821ed9e47f/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/e83a5fe4c56a0c0e022156d7ecdd23cb/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ee9c87486d663f11917251f831388767/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/1b44f998a3fdac59efca52fbd0405d15/jetified-soloader-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/880b7e418025ce421e62ae2f6f547833/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/f209091eb3926c649f0b3346884e478c/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/23f12b0a995277db82a9d4b860245889/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/32488318cfc756fa0f6ae91e625fa530/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/d2bc5983110492b5d9fde8d6f88a3eac/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/522d0ce6627f0cbb208d680d8374077c/jetified-play-services-vision-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/9fc19bc18885249ef1a460bfbf368363/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7752dcb5f35954b62a1d54735ffd34b4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/8aba81d1f41c837a4fe92c4434f4409c/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/379d8dd293b11f617170fc726135aed2/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/74e489e82a0934491474adc2d9fceef6/jetified-play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/f1756a7ae679d217129f167ae205f116/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a1794986c7a3c4986f9feb2359005476/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/0019c31d14287ef1010e7db518ab7dac/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/4f08be9e4c966c29f9915c37660e54c4/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/294cc5ecc9001f3e94c034cd71f64fdf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/65b26ec11e574f5d68d3fe93c8217bcb/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/cc51545e50c68299ed897db00d47e7e9/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/e491b027066b482b439af311917e1339/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/4c1ade53cc4b20d7bc631ac17d3bfca4/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/702974eead929cb167f132efe0eabb04/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/2d2a73585fe4f95076865d735ed19c29/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/aa2f1cd22069a9bb65f1845d902d729f/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/6e57c04e98c372fcd8878b95a3d5645d/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/0b3eeae4c45c19949f040ae2f0516871/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/0878a65179abd6a1b5016c6981bce614/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/f1f8381ec1e1c3f6b165a08612cfd883/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/d45a7c6a9e0bde829e8ef33e16b5a75d/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/eaa1cbe2ef40ba62ba3fc8b8fb69519a/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ffb6a67829fa40d4c0493cb7e147e8f7/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/46988bf365f6f851b8bbe2afbd38550b/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/86f8c8e32c7613bbe5e86eb4377e9413/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/336e4d7f5d818582899034e03216341f/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/e737982ea91fdf7ea321d344c75db0be/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ec269c0448f511d9b3a079089bf12ff9/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/816bcea4814577d15ba8f5fbe2ce9867/jetified-annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/e81d34d0d5260219fbdabd3419b30189/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/63ab70a5aaf2bf719f2ed0156b18e556/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/63ab70a5aaf2bf719f2ed0156b18e556/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-maps] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7752dcb5f35954b62a1d54735ffd34b4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7752dcb5f35954b62a1d54735ffd34b4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:5:5-81
+MERGED from [:react-native-maps] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:7:22-63
+uses-permission#android.permission.CAMERA
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:8:5-65
+MERGED from [:react-native-camera] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:9:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:10:3-78
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:10:20-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:11:3-79
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:11:20-76
+application
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:12:5-35:19
+MERGED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:12:5-35:19
+MERGED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:12:5-35:19
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/5014ab3fb4de0d8cd2f9d95e27ccc3d2/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/5014ab3fb4de0d8cd2f9d95e27ccc3d2/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/1b44f998a3fdac59efca52fbd0405d15/jetified-soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/1b44f998a3fdac59efca52fbd0405d15/jetified-soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/880b7e418025ce421e62ae2f6f547833/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/880b7e418025ce421e62ae2f6f547833/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/522d0ce6627f0cbb208d680d8374077c/jetified-play-services-vision-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/522d0ce6627f0cbb208d680d8374077c/jetified-play-services-vision-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/9fc19bc18885249ef1a460bfbf368363/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/9fc19bc18885249ef1a460bfbf368363/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7752dcb5f35954b62a1d54735ffd34b4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7752dcb5f35954b62a1d54735ffd34b4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/8aba81d1f41c837a4fe92c4434f4409c/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/8aba81d1f41c837a4fe92c4434f4409c/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/379d8dd293b11f617170fc726135aed2/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/379d8dd293b11f617170fc726135aed2/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/f1756a7ae679d217129f167ae205f116/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/f1756a7ae679d217129f167ae205f116/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a1794986c7a3c4986f9feb2359005476/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a1794986c7a3c4986f9feb2359005476/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/0019c31d14287ef1010e7db518ab7dac/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/0019c31d14287ef1010e7db518ab7dac/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/4f08be9e4c966c29f9915c37660e54c4/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/4f08be9e4c966c29f9915c37660e54c4/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/294cc5ecc9001f3e94c034cd71f64fdf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/294cc5ecc9001f3e94c034cd71f64fdf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ec269c0448f511d9b3a079089bf12ff9/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ec269c0448f511d9b3a079089bf12ff9/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/816bcea4814577d15ba8f5fbe2ce9867/jetified-annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/816bcea4814577d15ba8f5fbe2ce9867/jetified-annotation-0.8.2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:14:7-39
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:14:7-39
+	tools:ignore
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:16:7-52
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:16:7-52
+	tools:targetApi
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:15:7-41
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:15:7-41
+	android:allowBackup
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:17:7-34
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:17:7-34
+	android:theme
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:18:7-38
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:13:7-38
+activity#com.edukite.MainActivity
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:19:7-29:18
+	android:label
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:launchMode
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:23:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:24:9-51
+	android:configChanges
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:22:9-86
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:20:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:27:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:30:7-84
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:30:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:31:7-33:68
+	android:value
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:33:11-66
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:32:11-56
+uses-library#org.apache.http.legacy
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:34:7-85
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7752dcb5f35954b62a1d54735ffd34b4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7752dcb5f35954b62a1d54735ffd34b4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:34:59-83
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml:34:21-58
+uses-sdk
+INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/63ab70a5aaf2bf719f2ed0156b18e556/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/63ab70a5aaf2bf719f2ed0156b18e556/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7fdd7ff341c6b1e385b4005eca7b36a5/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7fdd7ff341c6b1e385b4005eca7b36a5/jetified-flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/c6e4cbf1ea1996b1099b54708f56c616/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/c6e4cbf1ea1996b1099b54708f56c616/jetified-flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/26134ccdb2d0f0668471e01e1e50dcd9/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/26134ccdb2d0f0668471e01e1e50dcd9/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-community_async-storage] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/5014ab3fb4de0d8cd2f9d95e27ccc3d2/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/5014ab3fb4de0d8cd2f9d95e27ccc3d2/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/be0f08ddbc7b2ceb9beb29e6b731c207/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/be0f08ddbc7b2ceb9beb29e6b731c207/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/f5ec57ec49d0a3e9add695de66a9078c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/f5ec57ec49d0a3e9add695de66a9078c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a083b9190df6cd0b2eed1b8d83acb3d5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a083b9190df6cd0b2eed1b8d83acb3d5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/43032aab24cbb6d5a94d999481777494/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/43032aab24cbb6d5a94d999481777494/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/548ac8f624c13ce59f763649ee31db68/jetified-flipper-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/548ac8f624c13ce59f763649ee31db68/jetified-flipper-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/49c8b8ff92a3ca7e808cd23b54773762/jetified-stetho-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/49c8b8ff92a3ca7e808cd23b54773762/jetified-stetho-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/3faa8d82b031a7be666886811b19017d/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/3faa8d82b031a7be666886811b19017d/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/3c7ccaca5815aaf22dc794aa2404e3a9/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/3c7ccaca5815aaf22dc794aa2404e3a9/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/03900285f8dc96706b7719550784439b/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/03900285f8dc96706b7719550784439b/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a7302c738102185809c4cf34de312841/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a7302c738102185809c4cf34de312841/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/c41cde47205e3865681326821ed9e47f/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/c41cde47205e3865681326821ed9e47f/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/e83a5fe4c56a0c0e022156d7ecdd23cb/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/e83a5fe4c56a0c0e022156d7ecdd23cb/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ee9c87486d663f11917251f831388767/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ee9c87486d663f11917251f831388767/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/1b44f998a3fdac59efca52fbd0405d15/jetified-soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/1b44f998a3fdac59efca52fbd0405d15/jetified-soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/880b7e418025ce421e62ae2f6f547833/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/880b7e418025ce421e62ae2f6f547833/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/f209091eb3926c649f0b3346884e478c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/f209091eb3926c649f0b3346884e478c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/23f12b0a995277db82a9d4b860245889/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/23f12b0a995277db82a9d4b860245889/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/32488318cfc756fa0f6ae91e625fa530/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/32488318cfc756fa0f6ae91e625fa530/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/d2bc5983110492b5d9fde8d6f88a3eac/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/d2bc5983110492b5d9fde8d6f88a3eac/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/522d0ce6627f0cbb208d680d8374077c/jetified-play-services-vision-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/522d0ce6627f0cbb208d680d8374077c/jetified-play-services-vision-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/9fc19bc18885249ef1a460bfbf368363/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/9fc19bc18885249ef1a460bfbf368363/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7752dcb5f35954b62a1d54735ffd34b4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7752dcb5f35954b62a1d54735ffd34b4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/8aba81d1f41c837a4fe92c4434f4409c/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/8aba81d1f41c837a4fe92c4434f4409c/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/379d8dd293b11f617170fc726135aed2/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/379d8dd293b11f617170fc726135aed2/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/74e489e82a0934491474adc2d9fceef6/jetified-play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/74e489e82a0934491474adc2d9fceef6/jetified-play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/f1756a7ae679d217129f167ae205f116/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/f1756a7ae679d217129f167ae205f116/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a1794986c7a3c4986f9feb2359005476/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a1794986c7a3c4986f9feb2359005476/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/0019c31d14287ef1010e7db518ab7dac/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/0019c31d14287ef1010e7db518ab7dac/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/4f08be9e4c966c29f9915c37660e54c4/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/4f08be9e4c966c29f9915c37660e54c4/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/294cc5ecc9001f3e94c034cd71f64fdf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/294cc5ecc9001f3e94c034cd71f64fdf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/65b26ec11e574f5d68d3fe93c8217bcb/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/65b26ec11e574f5d68d3fe93c8217bcb/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/cc51545e50c68299ed897db00d47e7e9/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/cc51545e50c68299ed897db00d47e7e9/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/e491b027066b482b439af311917e1339/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/e491b027066b482b439af311917e1339/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/4c1ade53cc4b20d7bc631ac17d3bfca4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/4c1ade53cc4b20d7bc631ac17d3bfca4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/702974eead929cb167f132efe0eabb04/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/702974eead929cb167f132efe0eabb04/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/2d2a73585fe4f95076865d735ed19c29/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/2d2a73585fe4f95076865d735ed19c29/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/aa2f1cd22069a9bb65f1845d902d729f/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/aa2f1cd22069a9bb65f1845d902d729f/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/6e57c04e98c372fcd8878b95a3d5645d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/6e57c04e98c372fcd8878b95a3d5645d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/d1ea25f3382273eed14315b543469208/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/0b3eeae4c45c19949f040ae2f0516871/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/0b3eeae4c45c19949f040ae2f0516871/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/0878a65179abd6a1b5016c6981bce614/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/0878a65179abd6a1b5016c6981bce614/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/f1f8381ec1e1c3f6b165a08612cfd883/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/f1f8381ec1e1c3f6b165a08612cfd883/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/67aa86ef8808cac41aa5afe6d271f3ea/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/d45a7c6a9e0bde829e8ef33e16b5a75d/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/d45a7c6a9e0bde829e8ef33e16b5a75d/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/eaa1cbe2ef40ba62ba3fc8b8fb69519a/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/eaa1cbe2ef40ba62ba3fc8b8fb69519a/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ffb6a67829fa40d4c0493cb7e147e8f7/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ffb6a67829fa40d4c0493cb7e147e8f7/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/46988bf365f6f851b8bbe2afbd38550b/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/46988bf365f6f851b8bbe2afbd38550b/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/86f8c8e32c7613bbe5e86eb4377e9413/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/86f8c8e32c7613bbe5e86eb4377e9413/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/336e4d7f5d818582899034e03216341f/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/336e4d7f5d818582899034e03216341f/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/e737982ea91fdf7ea321d344c75db0be/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/e737982ea91fdf7ea321d344c75db0be/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ec269c0448f511d9b3a079089bf12ff9/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ec269c0448f511d9b3a079089bf12ff9/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/816bcea4814577d15ba8f5fbe2ce9867/jetified-annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/816bcea4814577d15ba8f5fbe2ce9867/jetified-annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/e81d34d0d5260219fbdabd3419b30189/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/e81d34d0d5260219fbdabd3419b30189/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/63ab70a5aaf2bf719f2ed0156b18e556/jetified-flipper-0.33.1/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/63ab70a5aaf2bf719f2ed0156b18e556/jetified-flipper-0.33.1/AndroidManifest.xml:16:22-73
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/leducthang/Desktop/Dev/Headway/edukite/edukite/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7752dcb5f35954b62a1d54735ffd34b4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7752dcb5f35954b62a1d54735ffd34b4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7752dcb5f35954b62a1d54735ffd34b4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7752dcb5f35954b62a1d54735ffd34b4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/7752dcb5f35954b62a1d54735ffd34b4/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a1794986c7a3c4986f9feb2359005476/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a1794986c7a3c4986f9feb2359005476/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a1794986c7a3c4986f9feb2359005476/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/a1794986c7a3c4986f9feb2359005476/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/294cc5ecc9001f3e94c034cd71f64fdf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ec269c0448f511d9b3a079089bf12ff9/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/ec269c0448f511d9b3a079089bf12ff9/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/294cc5ecc9001f3e94c034cd71f64fdf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/leducthang/.gradle/caches/transforms-2/files-2.1/294cc5ecc9001f3e94c034cd71f64fdf/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
